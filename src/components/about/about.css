@@ -39,8 +39,9 @@
     height: 120px;
     border-radius: 20px;
 }
-.a-titlr{
+.a-title{
     font-weight: 400;
+    padding-top: 20px;
 }
 
 .a-sub{

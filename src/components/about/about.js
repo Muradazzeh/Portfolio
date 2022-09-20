@@ -12,6 +12,7 @@ function About() {
         <img src={myImage} alt='' className='a-image' />
     </div>
 </div>
+
 <div className='a-right'>
     <h1 className='a-title'> About Me </h1>
     <p className='a-sub'>
@@ -20,18 +21,18 @@ function About() {
     </p>
     <p className='a-desc'>
 
-    •	First we will use GitHub management system to check each member task, what we have been accomplished and that is the remaining task 
-•	In this back end project, we are planning to reach our minimum expectation, for our app 
-•	That we have proper database, with proper tables that connected to each other, and user can sign up and login, and also we will add other way to login using Facebook or google account 
-•	 And we need to save all service provider in proper table when the user search for any service can he get it 
-•	And the location for each service provider can be saved and updated 
-
+    <li>I can Analyze problems, identifies solutions and make decisions.</li>	
+    <li>I worked on version control system, and we used GitHub to do all our tasks (https://github.com/Muradazzeh)</li>	
+    <li>I have Fundamental understanding of HTML5, CSS, and JavaScript (ES6), node JS</li>	
+    <li>I can  use node Js to build express server, and how to deploy to Heroku. </li>	
+    <li>I learn react fundamental’s, react component’s life cycle.</li>	
+    <li>I learn how to deploy react project on live web site, like netlify.</li>	
     </p>
     <div className='.a-award' >
         <img src={myImage1} alt='' className='a-award-img' />
         <div className='.a-award-text'>
-            <h4 className='a-award-title'>Electrical Engineer</h4>
-            <p className='.a-award-desc'>Graduated from Jordan university of science and technology  </p>
+            <h4 className='a-award-title'>Objective</h4>
+            <p className='.a-award-desc'>I am looking for full-time position in software development that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills.  </p>
             
         </div>
     </div>

@@ -12,41 +12,49 @@ export const project = [
     {
         id:1,
         img:wether,
-        link:'https://polite-weatherapp.netlify.app/'
+        link:'https://polite-weatherapp.netlify.app/',
+        desc:" This is a simple weather app that  I build using react, it is getting weather data from 3rd party API"
     },
     {
         id:2,
         img:login,
-        link:'https://stalwart-figolla-0816a9.netlify.app/'
+        link:'https://stalwart-figolla-0816a9.netlify.app/',
+        desc:" This is a simple weather app that  I build using react, it is getting weather data from 3rd party API"
     },
     {
         id:3,
         img:store,
-        link:'https://dynamic-cannoli-6b0555.netlify.app/'
+        link:'https://dynamic-cannoli-6b0555.netlify.app/',
+        desc:" This is a simple weather app that  I build using react, it is getting weather data from 3rd party API"
     },
     {
         id:4,
         img:todo,
-        link:'https://6307cbf9c6fd06007e54d385--precious-sprinkles-849636.netlify.app/'
+        link:'https://6307cbf9c6fd06007e54d385--precious-sprinkles-849636.netlify.app/',
+        desc:" This is a simple weather app that  I build using react, it is getting weather data from 3rd party API"
     },
     {
         id:5,
         img:amazon,
-        link:'https://github.com/Muradazzeh/AWS-serverless-REST-API'
+        link:'https://github.com/Muradazzeh/AWS-serverless-REST-API',
+        desc:" This is a simple weather app that  I build using react, it is getting weather data from 3rd party API"
     },
     {
         id:6,
         img:chat,
-        link:'https://realtime-chat-team1.herokuapp.com/'
+        link:'https://realtime-chat-team1.herokuapp.com/',
+        desc:" This is a simple weather app that  I build using react, it is getting weather data from 3rd party API"
     },
     {
         id:7,
         img:auth,
-        link:'https://github.com/Muradazzeh/auth-api'
+        link:'https://github.com/Muradazzeh/auth-api',
+        desc:" This is a simple weather app that  I build using react, it is getting weather data from 3rd party API"
     },
     {
         id:8,
         img:move,
-        link:'https://github.com/Muradazzeh/Movies-Library'
+        link:'https://github.com/Muradazzeh/Movies-Library',
+        desc:" This is a simple weather app that  I build using react, it is getting weather data from 3rd party API"
     },
 ]
