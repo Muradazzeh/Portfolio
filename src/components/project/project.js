@@ -14,7 +14,7 @@ function Project(props) {
 <img src={props.img}  alt="imag"   className='p-img' width="350 px"/>
 
 </a>
-<p className='p-p'>{props.desc}</p>
+{/* <p className='p-p'>{props.desc}</p> */}
       </div>
      
       
