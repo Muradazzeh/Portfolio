@@ -31,3 +31,11 @@
 .p:hover .p-img{
 transform: translateY(-50%);
 }
+.p-p{
+    width: 100%;
+    transition: all 6s ease;
+
+}
+.p:hover .p-p{
+    transform: translateY(-50%);
+}

@@ -27,15 +27,15 @@ e.reset();
                     <h1 className='c-title'> Contact me </h1>
                     <div className='c-info'>
                         <div className='c-info-item'>
-                            <img src={phone} alt="image" className="c-icon"/>
+                            <img src={phone} alt="image1" className="c-icon"/>
                             00962786492199
                         </div>
                         <div className='c-info-item'>
-                            <img src={Email} alt="image" className="c-icon"/>
+                            <img src={Email} alt="image2" className="c-icon"/>
                             morad.azza@yahoo.com
                         </div>
                         <div className='c-info-item'>
-                            <img src={Address} alt="image" className="c-icon"/>
+                            <img src={Address} alt="image3" className="c-icon"/>
                             Jordan-Amman
                         </div>
                     </div>
