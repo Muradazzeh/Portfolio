@@ -6,6 +6,7 @@ import chat from "./image/chat.png"
 import auth from "./image/auth.png"
 import move from "./image/move.png"
 import amazon from "./image/amazon.png"
+import hiService from "./image/hi.png"
 
 
 export const project = [
@@ -17,10 +18,11 @@ export const project = [
     },
     {
         id:2,
-        img:login,
-        link:'https://stalwart-figolla-0816a9.netlify.app/',
-        desc:" Signup and login form connected to to My heroku API"
+        img:hiService,
+        link:'https://hiservice-frontend-1zbrark9o-art-of-coding.vercel.app/',
+        desc:"Our graduation project, backend and frontend  "
     },
+
     {
         id:3,
         img:store,
@@ -56,5 +58,11 @@ export const project = [
         img:move,
         link:'https://github.com/Muradazzeh/Movies-Library',
         desc:"backend project for move library that includes live movies from 3rd party API , using node JS "
+    },
+    {
+        id:9,
+        img:login,
+        link:'https://stalwart-figolla-0816a9.netlify.app/',
+        desc:" Signup and login form connected to to My heroku API"
     },
 ]
